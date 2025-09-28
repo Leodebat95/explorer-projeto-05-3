@@ -3,7 +3,7 @@
 Exercício #3 da semana #5, de nome "Biscoito da Sorte". Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 
 Este exercício é focado no estudo das linguagens HTML, CSS e JavaScript, trabalhando com os conceitos de animações CSS, funções JS, arrays,
-manipulação da DOM e métodos matemáticos no JS.
+manipulação da DOM e métodos matemáticos no JS.o
 
 <br>
   <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/0a1bf344-15c9-4f11-bed9-5f98889ef817" />
